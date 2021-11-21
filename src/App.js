@@ -9,7 +9,7 @@ function App() {
           Independent, Optimized, Trustworthy, Apolitical
         </p>
         <div className="bottomcenter">
-          <img src="https://newhippostorage.s3.ap-east-1.amazonaws.com/upload/newfeature/iotalogo.png" alt="logo" width="200" />
+          <img src="https://newhippostorage.s3.ap-east-1.amazonaws.com/upload/newfeature/iotalogo.png" alt="logo" width="220" />
         </div>
       </header>
     </div>
