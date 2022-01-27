@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-let version = 1; // tinyMCE test
+let version = 0; // tinyMCE test
 // let version = 0; // upcoming
 function App() {
   if (version == 0) {
