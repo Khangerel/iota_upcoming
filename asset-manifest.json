@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f34bff7.chunk.css",
-    "main.js": "/static/js/main.0b9eeebf.chunk.js",
-    "main.js.map": "/static/js/main.0b9eeebf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbf6fdda.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbf6fdda.js.map",
-    "static/js/2.fb8992ff.chunk.js": "/static/js/2.fb8992ff.chunk.js",
-    "static/js/2.fb8992ff.chunk.js.map": "/static/js/2.fb8992ff.chunk.js.map",
-    "static/js/3.1f37db47.chunk.js": "/static/js/3.1f37db47.chunk.js",
-    "static/js/3.1f37db47.chunk.js.map": "/static/js/3.1f37db47.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6f34bff7.chunk.css.map": "/static/css/main.6f34bff7.chunk.css.map",
-    "static/js/2.fb8992ff.chunk.js.LICENSE.txt": "/static/js/2.fb8992ff.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/helvetica-light-587ebe5a59211.6e816f78.ttf",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/iota_upcoming/static/css/main.fa499612.chunk.css",
+    "main.js": "/iota_upcoming/static/js/main.0b9eeebf.chunk.js",
+    "main.js.map": "/iota_upcoming/static/js/main.0b9eeebf.chunk.js.map",
+    "runtime-main.js": "/iota_upcoming/static/js/runtime-main.e2c94101.js",
+    "runtime-main.js.map": "/iota_upcoming/static/js/runtime-main.e2c94101.js.map",
+    "static/js/2.fb8992ff.chunk.js": "/iota_upcoming/static/js/2.fb8992ff.chunk.js",
+    "static/js/2.fb8992ff.chunk.js.map": "/iota_upcoming/static/js/2.fb8992ff.chunk.js.map",
+    "static/js/3.1f37db47.chunk.js": "/iota_upcoming/static/js/3.1f37db47.chunk.js",
+    "static/js/3.1f37db47.chunk.js.map": "/iota_upcoming/static/js/3.1f37db47.chunk.js.map",
+    "index.html": "/iota_upcoming/index.html",
+    "static/css/main.fa499612.chunk.css.map": "/iota_upcoming/static/css/main.fa499612.chunk.css.map",
+    "static/js/2.fb8992ff.chunk.js.LICENSE.txt": "/iota_upcoming/static/js/2.fb8992ff.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/iota_upcoming/static/media/helvetica-light-587ebe5a59211.6e816f78.ttf",
+    "static/media/logo.6ce24c58.svg": "/iota_upcoming/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbf6fdda.js",
+    "static/js/runtime-main.e2c94101.js",
     "static/js/2.fb8992ff.chunk.js",
-    "static/css/main.6f34bff7.chunk.css",
+    "static/css/main.fa499612.chunk.css",
     "static/js/main.0b9eeebf.chunk.js"
   ]
 }
