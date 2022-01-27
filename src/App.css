@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.Tinycontainer {
+  width: 80%;
+  /* height: auto; */
+  height: 40%;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: aqua;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
